@@ -1,0 +1,4 @@
+﻿  test3.c
+c:\users\sangh\documents\visual studio 2015\projects\chapter3\chapter3\test3.c(24): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Chapter3.vcxproj -> C:\Users\sangh\Documents\Visual Studio 2015\Projects\Chapter3\Debug\Chapter3.exe
+  Chapter3.vcxproj -> C:\Users\sangh\Documents\Visual Studio 2015\Projects\Chapter3\Debug\Chapter3.pdb (Full PDB)
